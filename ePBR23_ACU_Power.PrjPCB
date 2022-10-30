@@ -185,7 +185,7 @@ GenerateClassCluster=0
 DocumentUniqueId=RKFIURDG
 
 [Document9]
-DocumentPath=ePBR20_ACU_Power_rev1.PcbDoc
+DocumentPath=ePBR23_ACU_Power_rev0.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
