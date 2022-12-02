@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: ePBR23_ACU_Power_rev0.PcbDoc   2022-11-23  6:14:39 PM
+NCDrill File Report For: ePBR23_ACU_Power_rev0.PcbDoc   2022-12-02  11:45:40 AM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,7 +7,7 @@ ASCII RoundHoles File : ePBR23_ACU_Power_rev0.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      17mil (0.432mm)                                           Round             147       PTH        43.58inch (1106.91mm)
+T1      17mil (0.432mm)                                           Round             2087      PTH        244.72inch (6215.83mm)
 T2      28mil (0.711mm)                                           Round             12        PTH        16.40inch (416.49mm)
 T3      31mil (0.787mm)                                           Round             1         PTH        0.00inch (0.00mm)
 T4      35mil (0.889mm)                                           Round             36        PTH        20.30inch (515.73mm)
@@ -21,6 +21,6 @@ T11     114mil (2.896mm)                                          Round         
 T12     128mil (3.251mm)                                          Round             4         PTH        2.15inch (54.65mm)
 T13     137mil (3.48mm)                                           Round             11        PTH        31.75inch (806.34mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              423
+Totals                                                                              2363
 
 Total Processing Time (hh:mm:ss) : 00:00:00
