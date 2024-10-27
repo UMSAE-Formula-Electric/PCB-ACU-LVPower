@@ -50,23 +50,6 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=1  - Connectors.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=0
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=MIXMGWTB
-
-[Document2]
 DocumentPath=2  - Power Switch.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -82,6 +65,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DUCPAUGX
+
+[Document2]
+DocumentPath=1  - Connectors.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=0
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MIXMGWTB
 
 [Document3]
 DocumentPath=3  - Fuses.SchDoc
@@ -253,6 +253,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document13]
+DocumentPath=..\..\OneDrive\Рабочий стол\ePBR25_ACU_Power.BomDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for ePBR20_ACU_Power\1  - Connectors.NET
 DItemRevisionGUID=
@@ -262,122 +279,78 @@ DocumentPath=Project Outputs for ePBR20_ACU_Power\ePBR20_ACU_Power.NET
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for ePBR20_ACU_Power\ePBR20_ACU_Power_rev1.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for ePBR20_ACU_Power\ePBR20_ACU_Power_rev1.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument5]
 DocumentPath=Project Outputs for ePBR20_ACU_Power\ePBR20_ACU_Power_rev1.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument6]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for ePBR20_ACU_Power\ePBR20_ACU_Power_rev1.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for ePBR20_ACU_Power\ePBR20_ACU_Power_rev1.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for ePBR20_ACU_Power\ePBR20_ACU_Power_rev1.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for ePBR20_ACU_Power\ePBR20_ACU_Power_rev1.GM2
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for ePBR20_ACU_Power\ePBR20_ACU_Power_rev1.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for ePBR20_ACU_Power\ePBR20_ACU_Power_rev1.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for ePBR20_ACU_Power\ePBR20_ACU_Power_rev1.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for ePBR20_ACU_Power\ePBR20_ACU_Power_rev1.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument14]
-DocumentPath=Project Outputs for ePBR20_ACU_Power\ePBR20_ACU_Power_rev1.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for ePBR20_ACU_Power\ePBR20_ACU_Power_rev1.REP
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for ePBR20_ACU_Power\ePBR20_ACU_Power_rev1.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for ePBR20_ACU_Power\ePBR20_ACU_Power_rev1.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for ePBR23_ACU_Power\ePBR23_ACU_Power_rev0.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for ePBR23_ACU_Power\ePBR23_ACU_Power_rev0.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument20]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for ePBR23_ACU_Power\ePBR23_ACU_Power_rev0.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument21]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for ePBR23_ACU_Power\ePBR23_ACU_Power_rev0.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument22]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for ePBR23_ACU_Power\ePBR23_ACU_Power_rev0.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument23]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for ePBR23_ACU_Power\ePBR23_ACU_Power_rev0.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument24]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for ePBR23_ACU_Power\ePBR23_ACU_Power_rev0.GM2
 DItemRevisionGUID=
 
-[GeneratedDocument25]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for ePBR23_ACU_Power\ePBR23_ACU_Power_rev0.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument26]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for ePBR23_ACU_Power\ePBR23_ACU_Power_rev0.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument27]
+[GeneratedDocument19]
 DocumentPath=Project Outputs for ePBR23_ACU_Power\ePBR23_ACU_Power_rev0.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument28]
+[GeneratedDocument20]
 DocumentPath=Project Outputs for ePBR23_ACU_Power\ePBR23_ACU_Power_rev0.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument29]
-DocumentPath=Project Outputs for ePBR23_ACU_Power\ePBR23_ACU_Power_rev0.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument30]
-DocumentPath=Project Outputs for ePBR23_ACU_Power\ePBR23_ACU_Power_rev0.REP
-DItemRevisionGUID=
-
-[GeneratedDocument31]
-DocumentPath=Project Outputs for ePBR23_ACU_Power\ePBR23_ACU_Power_rev0.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument32]
+[GeneratedDocument21]
 DocumentPath=Project Outputs for ePBR23_ACU_Power\ePBR23_ACU_Power_rev0.TXT
 DItemRevisionGUID=
 
