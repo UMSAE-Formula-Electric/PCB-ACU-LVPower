@@ -50,6 +50,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=..\..\..\Users\Luis\Downloads\FDS6675\SnapEDAsch.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JVHTISAB
+
+[Document2]
 DocumentPath=2  - Battery Sensing.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -66,7 +83,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DUCPAUGX
 
-[Document2]
+[Document3]
 DocumentPath=1  - Connectors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -83,7 +100,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MIXMGWTB
 
-[Document3]
+[Document4]
 DocumentPath=3  - Fuses.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -100,7 +117,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UOPDVUJE
 
-[Document4]
+[Document5]
 DocumentPath=6  - Load Drivers.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WIBQXGVI
 
-[Document5]
+[Document6]
 DocumentPath=ACB_PcbLib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HBLPROFQ
 
-[Document6]
+[Document7]
 DocumentPath=ACB_lib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RKFIURDG
 
-[Document7]
+[Document8]
 DocumentPath=ePBR25_ACU_Power_rev0.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,7 +185,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IRSWYTXW
 
-[Document8]
+[Document9]
 DocumentPath=8  - Voltage Conversions Delays.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,7 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FWCPSKFD
 
-[Document9]
+[Document10]
 DocumentPath=ePBR23_ACU_Power.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,7 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document10]
+[Document11]
 DocumentPath=ePBR20_ACU_Power.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -219,7 +236,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document11]
+[Document12]
 DocumentPath=9  - UV OV Protection.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -236,8 +253,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WPKWHFEB
 
-[Document12]
-DocumentPath=10  - Saftey Loop Disconnect.SchDoc
+[Document13]
+DocumentPath=10  - Latching Delay.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -253,7 +270,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OJNGFSJQ
 
-[Document13]
+[Document14]
 DocumentPath=ePBR25_ACU_Power.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -270,7 +287,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document14]
+[Document15]
 DocumentPath=ePBR25_ACU_Power.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -288,42 +305,46 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for ePBR23_ACU_Power\ePBR23_ACU_Power_rev0.GBL
+DocumentPath=Project Outputs for ePBR25_ACU_Power\Design Rule Check - ePBR25_ACU_Power_rev0.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for ePBR23_ACU_Power\ePBR23_ACU_Power_rev0.GBO
+DocumentPath=Project Outputs for ePBR23_ACU_Power\ePBR23_ACU_Power_rev0.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for ePBR23_ACU_Power\ePBR23_ACU_Power_rev0.GBP
+DocumentPath=Project Outputs for ePBR23_ACU_Power\ePBR23_ACU_Power_rev0.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for ePBR23_ACU_Power\ePBR23_ACU_Power_rev0.GBS
+DocumentPath=Project Outputs for ePBR23_ACU_Power\ePBR23_ACU_Power_rev0.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for ePBR23_ACU_Power\ePBR23_ACU_Power_rev0.GM2
+DocumentPath=Project Outputs for ePBR23_ACU_Power\ePBR23_ACU_Power_rev0.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for ePBR23_ACU_Power\ePBR23_ACU_Power_rev0.GTL
+DocumentPath=Project Outputs for ePBR23_ACU_Power\ePBR23_ACU_Power_rev0.GM2
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for ePBR23_ACU_Power\ePBR23_ACU_Power_rev0.GTO
+DocumentPath=Project Outputs for ePBR23_ACU_Power\ePBR23_ACU_Power_rev0.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for ePBR23_ACU_Power\ePBR23_ACU_Power_rev0.GTP
+DocumentPath=Project Outputs for ePBR23_ACU_Power\ePBR23_ACU_Power_rev0.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for ePBR23_ACU_Power\ePBR23_ACU_Power_rev0.GTS
+DocumentPath=Project Outputs for ePBR23_ACU_Power\ePBR23_ACU_Power_rev0.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument10]
+DocumentPath=Project Outputs for ePBR23_ACU_Power\ePBR23_ACU_Power_rev0.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument11]
 DocumentPath=Project Outputs for ePBR23_ACU_Power\ePBR23_ACU_Power_rev0.TXT
 DItemRevisionGUID=
 
