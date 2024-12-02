@@ -50,6 +50,40 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=..\..\..\Users\Luis\AppData\Local\Temp\f9862e7b-41e9-4c3d-a882-d336ab692c16_J115F11C12VDCSH_9.zip.c16\J115F11C12VDCSH.9\RELAY_J115F11C12VDCSH.9.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LPPNVADT
+
+[Document2]
+DocumentPath=..\..\..\Users\Luis\AppData\Local\Temp\f9862e7b-41e9-4c3d-a882-d336ab692c16_J115F11C12VDCSH_9.zip.c16\J115F11C12VDCSH.9\J115F11C12VDCSH.9.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JMVXGBPZ
+
+[Document3]
 DocumentPath=2071366-1\SnapEDAsch.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -66,7 +100,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UQOHNKIS
 
-[Document2]
+[Document4]
 DocumentPath=2071366-1\SnapEDApcb.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -83,7 +117,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GMIVLSFD
 
-[Document3]
+[Document5]
 DocumentPath=AltiumV15\Imported 2024-11-27_20-40-21.lia\2024-11-27_20-40-21.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -100,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LECTQCEU
 
-[Document4]
+[Document6]
 DocumentPath=AltiumV15\Imported 2024-11-27_20-40-21.lia\Saftey_loop_relay.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PZYAUDUY
 
-[Document5]
+[Document7]
 DocumentPath=G3VM-61VY3(TR05).SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JHNKOCVJ
 
-[Document6]
+[Document8]
 DocumentPath=..\..\..\Users\Luis\Downloads\FDS6675\SnapEDAsch.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,7 +185,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JVHTISAB
 
-[Document7]
+[Document9]
 DocumentPath=2  - Battery Sensing and Control.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,7 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DUCPAUGX
 
-[Document8]
+[Document10]
 DocumentPath=1  - Connectors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,7 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MIXMGWTB
 
-[Document9]
+[Document11]
 DocumentPath=3  - Fuses.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,7 +236,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UOPDVUJE
 
-[Document10]
+[Document12]
 DocumentPath=6  - Load Drivers.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -219,7 +253,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WIBQXGVI
 
-[Document11]
+[Document13]
 DocumentPath=ACB_PcbLib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -236,7 +270,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HBLPROFQ
 
-[Document12]
+[Document14]
 DocumentPath=ACB_lib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -253,7 +287,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RKFIURDG
 
-[Document13]
+[Document15]
 DocumentPath=ePBR25_ACU_Power_rev0.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -270,7 +304,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IRSWYTXW
 
-[Document14]
+[Document16]
 DocumentPath=8  - Voltage Conversions Delays.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -287,7 +321,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FWCPSKFD
 
-[Document15]
+[Document17]
 DocumentPath=ePBR23_ACU_Power.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -304,7 +338,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document16]
+[Document18]
 DocumentPath=ePBR20_ACU_Power.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -321,7 +355,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document17]
+[Document19]
 DocumentPath=9  - UV OV Protection.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -338,14 +372,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WPKWHFEB
 
-[Document18]
+[Document20]
 DocumentPath=10  - Latching Delay.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=13
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -355,7 +389,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OJNGFSJQ
 
-[Document19]
+[Document21]
 DocumentPath=ePBR25_ACU_Power.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -372,7 +406,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document20]
+[Document22]
 DocumentPath=ePBR25_ACU_Power.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
